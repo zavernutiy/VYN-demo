@@ -1,0 +1,37 @@
+.invisible {
+  display: none;
+}
+
+.userForm {
+  margin-left: 50px;
+  width: 450px;
+}
+
+.centerVertical {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.socialGroup {
+  border: solid 1px darkgray;
+  border-radius: 5px;
+  padding-left: 10px;
+  margin-bottom: 10px;
+}
+
+.right {
+  right: 0;
+}
+
+.left {
+  width: 190px;
+  display: inline-block;
+}
+
+.socialGroup .left {
+  width: 178px;
+}
+
+.contacted {
+  margin-left: 190px;
+}

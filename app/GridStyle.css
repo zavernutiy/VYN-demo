@@ -1,0 +1,29 @@
+.ui-helper-hidden-accessible {
+    display: none;
+}
+
+/*
+Overriding these styles, so multi select component is not bigger than other search filters in Grid
+*/
+.react-grid-HeaderCell .Select,
+.react-grid-HeaderCell .Select--multi,
+.react-grid-HeaderCell .is-searchable,
+.react-grid-HeaderCell .Select-control,
+.react-grid-HeaderCell .Select-multi-value-wrapper,
+.react-grid-HeaderCell .Select-placeholder {
+    height: 28px !important;
+    font-size: 12px;
+}
+
+.react-grid-HeaderCell .Select-placeholder {
+    line-height: 28px !important;
+}
+
+.input-sm .badge {
+    display: none;
+}
+
+/*
+.react-grid-HeaderCell-sortable {
+    display: none;
+}*/

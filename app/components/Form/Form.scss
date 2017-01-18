@@ -1,0 +1,55 @@
+.addMember {
+  float: right;
+  margin: 10px 10px 0 0;
+}
+
+.invisible {
+  display: none;
+}
+
+.userForm {
+  margin-left: 50px;
+  width: 450px;
+}
+
+.centerVertical {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.socialGroup {
+  border: solid 1px darkgray;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.right {
+  width: 70% !important;
+  right: 0;
+}
+
+.left {
+  width: 30%;
+  display: inline-block;
+}
+
+.socialGroup .left {
+  width: 30%;
+}
+
+.socialGroup .right {
+  width: 70% !important;
+}
+
+label {
+  font-family: "Roboto", sans-serif;
+}
+
+.selectedValue {
+  background-color: #999 !important;
+}
+
+.marginTop {
+  margin-top: 10px;
+}

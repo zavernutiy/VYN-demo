@@ -1,0 +1,58 @@
+.addMember {
+  float: right;
+  margin: 10px 10px 0 0;
+}
+
+.invisible {
+  display: none;
+}
+
+.userForm {
+  margin-left: 50px;
+  width: 450px;
+}
+
+.centerVertical {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.socialGroup {
+  border: solid 1px darkgray;
+  border-radius: 5px;
+  padding-left: 10px;
+  margin-bottom: 10px;
+}
+
+.right {
+  right: 0;
+}
+
+.left {
+  width: 190px;
+  display: inline-block;
+}
+
+.socialGroup .left {
+  width: 178px;
+}
+
+.selectedValue {
+  background-color: #999 !important;
+}
+
+.rotate180 {
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+
+.title {
+  margin-left: 50px;
+}
+
+.submit {
+  margin-top: 40px;
+}
